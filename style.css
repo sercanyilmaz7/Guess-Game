@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  text-align: center;
+  background-color: antiquewhite;
+  /* background-image: url(https://resimarama.net/wp-content/uploads/2020/06/Aslanl%C4%B1-Galatasaray-Arka-Plan-resimleri-hd.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  font-size: 2.5rem;
+  margin: 2rem;
+}
+
+#number {
+  font-size: 2rem;
+  width: 20rem;
+  text-align: center;
+}
+
+#btn {
+  font-size: 2rem;
+  border-radius: 20px;
+  width: 10rem;
+}
